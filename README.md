@@ -1,6 +1,6 @@
 > # @reactivers/use-dimensions
 
-[![npm version](https://badge.fury.io/js/@reactivers%use-dimensions.svg)](//www.npmjs.com/package/@reactivers/use-dimensions)
+[![npm version](https://badge.fury.io/js/@reactivers%2Fuse-dimensions.svg)](//www.npmjs.com/package/@reactivers/use-dimensions)
 
 # Welcome
 
